@@ -42,7 +42,7 @@ Error:Success
 - **(group) Final project:** https://github.com/box717/final-project
 - **VO:** https://github.com/box717
 - **Opensplating:** https://github.com/LancerPu
-- **U-net:** https://github.com/billyTryToCode
+- **U-net:** (https://github.com/LancerPu/Pytorch-UNet)
 
 Up to 3 members~
 ---
