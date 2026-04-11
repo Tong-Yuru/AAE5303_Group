@@ -43,6 +43,7 @@ Error:Success
 - **VO:** https://github.com/box717
 - **Opensplating:** https://github.com/LancerPu
 - **U-net:** https://github.com/billyTryToCode
+-  **Slides:** https://github.com/Tong-Yuru/AAE5303-404_FOUND_Presentation
 
 Up to 3 members~
 ---
